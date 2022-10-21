@@ -31,7 +31,7 @@ const Itemgrid = () => {
           ></Image>
         </Box>
         <Box textAlign="center">
-          <Text fontSize="3xl" color="#fff">Web Publisher | Tech Writer | Code Monkey</Text>
+          <Text ml={6} mr={6} fontSize="3xl" color="#fff">Web Publisher | Tech Writer | Code Monkey</Text>
         </Box>
         <Box>
           <a href="https://www.javandel.net/kate" rel="noreferrer">
@@ -62,7 +62,7 @@ const Itemgrid = () => {
           ></Image>
         </Box>
         <Box textAlign="center">
-          <Text fontSize="3xl" color="#fff">
+          <Text fontSize="3xl" color="#fff"  ml={6} mr={6}>
             Full Stack Developer | Linux Enthusiast | Tinkerer | College Student
           </Text>
         </Box>
