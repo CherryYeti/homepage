@@ -20,7 +20,7 @@ const Itemgrid = () => {
         bgRepeat="no-repeat"
       >
         <Box mt="25vh">
-          <Heading size="4xl">Kate</Heading>
+          <Heading size="4xl" color="#fff">Kate</Heading>
         </Box>
         <Box>
           <Image
@@ -31,7 +31,7 @@ const Itemgrid = () => {
           ></Image>
         </Box>
         <Box textAlign="center">
-          <Text fontSize="3xl">Web Publisher | Tech Writer | Code Monkey</Text>
+          <Text fontSize="3xl" color="#fff">Web Publisher | Tech Writer | Code Monkey</Text>
         </Box>
         <Box>
           <a href="https://www.javandel.net/kate" rel="noreferrer">
@@ -51,7 +51,7 @@ const Itemgrid = () => {
         bgRepeat="no-repeat"
       >
         <Box mt="25vh">
-          <Heading size="4xl">Jason</Heading>
+          <Heading size="4xl" color="#fff">Jason</Heading>
         </Box>
         <Box>
           <Image
@@ -62,7 +62,7 @@ const Itemgrid = () => {
           ></Image>
         </Box>
         <Box textAlign="center">
-          <Text fontSize="3xl">
+          <Text fontSize="3xl" color="#fff">
             Full Stack Developer | Linux Enthusiast | Tinkerer | College Student
           </Text>
         </Box>
